@@ -500,7 +500,7 @@
           <mxGeometry x="1660" y="520" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ccoW73JxKC8cJCI6jTo7-46" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1465" y="610" width="460" height="220" as="geometry">
+          <mxGeometry x="1465" y="610" width="460" height="270" as="geometry">
             <mxRectangle x="800" y="400" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -527,6 +527,12 @@
             <mxPoint x="380" y="-30" as="sourcePoint" />
             <mxPoint x="430" y="-80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ccoW73JxKC8cJCI6jTo7-54" value="&lt;div&gt;Slot&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ccoW73JxKC8cJCI6jTo7-46">
+          <mxGeometry x="10" y="180" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ccoW73JxKC8cJCI6jTo7-55" value="&lt;div&gt;Stance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ccoW73JxKC8cJCI6jTo7-46">
+          <mxGeometry x="180" y="180" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ccoW73JxKC8cJCI6jTo7-53" value="Log" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="300" y="1035" width="200" height="30" as="geometry" />
