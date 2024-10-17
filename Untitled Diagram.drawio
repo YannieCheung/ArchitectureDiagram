@@ -651,6 +651,15 @@
         <mxCell id="-XoLFDb0LuWAJQt2IJDY-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="1880" y="1207.5" width="70" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="-XoLFDb0LuWAJQt2IJDY-43" value="Slot &amp;gt; 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="1320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XoLFDb0LuWAJQt2IJDY-45" value="If Key &lt;font face=&quot;monospace&quot;&gt;CD &lt;/font&gt;or &lt;font face=&quot;monospace&quot;&gt;Cost &lt;/font&gt;exists, first remove the record.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;Extract the function &lt;code&gt;&lt;font face=&quot;monospace&quot;&gt;Func&lt;/font&gt;&amp;lt;int&amp;gt;&lt;/code&gt; from&amp;nbsp;&lt;code&gt;intVariables&lt;/code&gt; using the &lt;font face=&quot;monospace&quot;&gt;CD_KeyName &lt;/font&gt;or &lt;font face=&quot;monospace&quot;&gt;Cost_KeyName &lt;/font&gt;index,&amp;nbsp; then add the function back to the dictionary using &lt;font face=&quot;monospace&quot;&gt;CD &lt;/font&gt;or &lt;font face=&quot;monospace&quot;&gt;Cost&lt;/font&gt;.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1420" width="325" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-XoLFDb0LuWAJQt2IJDY-46" value="CD_KeyName&lt;div&gt;Cost_KeyName&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1310" width="185" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
